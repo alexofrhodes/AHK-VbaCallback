@@ -125,26 +125,8 @@ USERFORMS
 SHAPES
 	GotoSelectedShapeOnAction
 BOOKMARKS
-	BmLoad1
-	BmLoad2
-	BmLoad3
-	BmLoad4
-	BmLoad5
-	BmLoad6
-	BmLoad7
-	BmLoad8
-	BmLoad9
-	BmLoad10
-	BmLoad11
-	BmLoad12
-	BmLoad13
-	BmLoad14
-	BmLoad15
-	BmLoad16
-	BmLoad17
-	BmLoad18
-	BmLoad19
-	BmLoad20
+	uBookmarks
+	Printbookmarks
 
 	BmLoad1
 	BmLoad2
@@ -161,8 +143,19 @@ BOOKMARKS
 	BmLoad13
 	BmLoad14
 	BmLoad15
-	BmLoad16
-	BmLoad17
-	BmLoad18
-	BmLoad19
-	BmLoad20
+
+	Bmsave1
+	Bmsave2
+	Bmsave3
+	Bmsave4
+	Bmsave5
+	Bmsave6
+	Bmsave7
+	Bmsave8
+	Bmsave9
+	Bmsave10
+	Bmsave11
+	Bmsave12
+	Bmsave13
+	Bmsave14
+	Bmsave15
